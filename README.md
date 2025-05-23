@@ -6,7 +6,7 @@ I mess around with low-level stuff, break down bytecode for fun, and build tools
 
 ## 🔍 Bytecode Tuesday
 
-Every Tuesday, me and [@turupawn](https://twitter.com/turupawn) from [Filosofía Código](https://www.youtube.com/c/FilosofiaCodigo/videos) publish a new post for **Bytecode Tuesday** — a deep dive into the weird, wild world of **EVM bytecode**.
+Every Tuesday, [@turupawn](https://twitter.com/turupawn) from [Filosofía Código](https://www.youtube.com/c/FilosofiaCodigo/videos) and me publish a new post for **Bytecode Tuesday** — a deep dive into the weird, wild world of **EVM bytecode**.
 
 We’re on a mission to make the EVM less of a black box and more of a "ohhh *that’s* what’s going on."
 

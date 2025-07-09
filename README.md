@@ -4,18 +4,6 @@ I mess around with low-level stuff, break down bytecode for fun, and build tools
 
 ---
 
-## 🔍 Bytecode Tuesday
-
-Every Tuesday, [@turupawn](https://twitter.com/turupawn) from [Filosofía Código](https://www.youtube.com/c/FilosofiaCodigo/videos) and me publish a new post for **Bytecode Tuesday** — a deep dive into the weird, wild world of **EVM bytecode**.
-
-We’re on a mission to make the EVM less of a black box and more of a "ohhh *that’s* what’s going on."
-
-If you like opcode spelunking, Ethereum internals, or just wanna know what the hell `0x5b` is doing in your contract, you're gonna like it.
-
-🧠 [Catch up on Bytecode Tuesday](https://paragraph.com/@bytecodetuesday) — New post every week.
-
----
-
 ## 🛠️ EVM Bytecode Disassembler
 
 

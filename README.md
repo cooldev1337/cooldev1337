@@ -23,7 +23,7 @@ To test it, go to the Remix Plugin Manager and press "Connect to an external plu
 Then enter GasGuage as the plugin name and display name.  
 In the url field, paste this:  
 https://gasgauge-remix-ide-plugin-cooldev1337.pages.dev/  
-(This link works only as a Remix IDE plugin)
+**(This link works only as a Remix IDE plugin. It will not work when accessed directly from the browser)**
   
 And hit "OK".  
 

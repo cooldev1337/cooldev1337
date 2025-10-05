@@ -13,6 +13,22 @@ I built a tool to help you take apart EVM bytecode, opcode by opcode. It’s lig
 
 ---
 
+## </> GasGauge Remix IDE Plugin
+
+This plugin takes the Remix gas calculations and enhances them by giving you the total price cost of executing your smart contract functions.  
+It offers the flexibility to adjust the priority fee percentiles used for the different speeds (Slow, Medium, and Fast) in the EIP-1559 calculation.  
+It also enables you to select from 48 different fiat currencies to display the transaction cost, or you can choose to show the cost in the native gas token.  
+  
+To test it, go to the Remix Plugin Manager and press "Connect to an external plugin".  
+Then enter GasGuage as the plugin name and display name.  
+In the url field, paste this:  
+https://gasgauge-remix-ide-plugin-cooldev1337.pages.dev/  
+(This link works only as a Remix IDE plugin)
+  
+And hit "OK".  
+
+---
+
 ## 🧪 What I Like Working On
 
 - Blockchain internals & tooling
